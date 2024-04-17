@@ -1,0 +1,9 @@
+{
+	"id": "find-non-use-assets",
+	"name": "Find non use assets",
+	"version": "1.0.5",
+	"minAppVersion": "0.15.12",
+	"description": "",
+	"author": "insert4NamesString",
+	"isDesktopOnly": true
+}
